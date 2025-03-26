@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+I am Lauren Shohan, a current Graduate Student at Duke University studying Energy and Environmental Analytics and Modeling. I am studying within the Nicholas School. I will be working for the SELC this summer in Chapel Hill.
+Attached below is my LinkedIn and a picture of the Chapel at Duke. 
+
+LinkedIn : https://www.linkedin.com/in/laurenshohan/
+
+![IMG_7B1F132D3325-1](https://github.com/user-attachments/assets/d9ca8601-5a60-4c4b-9036-8b2a96b85297)
+
 <!--
 **lshohan12/lshohan12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
