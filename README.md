@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-I am Lauren Shohan, a current Graduate Student at Duke University studying Energy and Environmental Analytics and Modeling. I am studying within the Nicholas School. I will be working for the SELC this summer in Chapel Hill.
-Attached below is my LinkedIn and a picture of the Chapel at Duke. 
+I am Lauren Shohan, a current Graduate Student at Duke University studying Energy and Environmental Analytics and Modeling at the Nicholas School of the Environment. 
+Attached below is my LinkedIn.
 
 LinkedIn : https://www.linkedin.com/in/laurenshohan/
 
